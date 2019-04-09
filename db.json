@@ -1,0 +1,15 @@
+{
+  "produk" : [{
+  "kode": 1,
+  "nama": "Gipsy Wemyss",
+  "jumlah":12
+}, {
+  "id": 2,
+  "nama": "Gipsy Wemyss",
+  "jumlah":12
+}, {
+  "id": 3,
+  "nama": "Gipsy Wemyss",
+  "jumlah":12
+},
+]}
